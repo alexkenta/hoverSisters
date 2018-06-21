@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#wrapper {
+    width: 604px;
+    margin: auto;
+    padding: 15px;
+    background: linear-gradient(#737781, #252D41, #0B0E14);
+}
+img {
+    width: 300px;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 15px;
+}
